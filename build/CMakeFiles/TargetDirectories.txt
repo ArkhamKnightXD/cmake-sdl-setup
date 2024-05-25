@@ -1,0 +1,3 @@
+C:/Projects/Game-Development/sdl-projects/setup-sdl/build/CMakeFiles/base.dir
+C:/Projects/Game-Development/sdl-projects/setup-sdl/build/CMakeFiles/edit_cache.dir
+C:/Projects/Game-Development/sdl-projects/setup-sdl/build/CMakeFiles/rebuild_cache.dir

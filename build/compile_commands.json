@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Projects/Game-Development/sdl-projects/setup-sdl/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/base.dir/includes_CXX.rsp -g -o CMakeFiles\\base.dir\\src\\main.cpp.obj -c C:\\Projects\\Game-Development\\sdl-projects\\setup-sdl\\src\\main.cpp",
+  "file": "C:/Projects/Game-Development/sdl-projects/setup-sdl/src/main.cpp",
+  "output": "CMakeFiles/base.dir/src/main.cpp.obj"
+}
+]
