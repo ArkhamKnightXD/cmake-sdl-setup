@@ -1,0 +1,4 @@
+cmake .. -G "MinGW Makefiles"
+
+-j10 quantity of cores that you pc has.
+mingw32-make install -j10
